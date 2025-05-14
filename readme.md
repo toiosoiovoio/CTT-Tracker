@@ -23,7 +23,7 @@ To install this addon temporarily for testing:
 
 1. Select a tracking number or text on any webpage
 2. Right-click on the selected text
-3. Choose Sseguir objecto em CTT.pt" from the context menu
+3. Choose "Seguir objecto em CTT.pt" from the context menu
 4. A new tab will open with the CTT tracking results
 
 ## Creating a Package for Distribution
