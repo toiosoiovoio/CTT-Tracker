@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Seguir objecto em ctt.pt",
+  "version": "1.0",
+  "description": "Fazer o seguimento de um objecto no site dos CTT",
+  "icons": {
+    "48": "icons/tracker-48.png"
+  },
+  "permissions": [
+    "contextMenus",
+    "tabs",
+    "https://appserver.ctt.pt/*"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
